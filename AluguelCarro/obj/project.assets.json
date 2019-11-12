@@ -12945,11 +12945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henrique\\source\\repos\\AluguelCarro\\AluguelCarro\\AluguelCarro.csproj",
+      "projectUniqueName": "C:\\Users\\henrique\\Desktop\\AluguelCarro\\AluguelCarro\\AluguelCarro.csproj",
       "projectName": "AluguelCarro",
-      "projectPath": "C:\\Users\\henrique\\source\\repos\\AluguelCarro\\AluguelCarro\\AluguelCarro.csproj",
+      "projectPath": "C:\\Users\\henrique\\Desktop\\AluguelCarro\\AluguelCarro\\AluguelCarro.csproj",
       "packagesPath": "C:\\Users\\henrique\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henrique\\source\\repos\\AluguelCarro\\AluguelCarro\\obj\\",
+      "outputPath": "C:\\Users\\henrique\\Desktop\\AluguelCarro\\AluguelCarro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

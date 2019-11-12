@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrique\\source\\repos\\AluguelCarro\\AluguelCarro\\AluguelCarro.csproj": {}
+    "C:\\Users\\henrique\\Desktop\\AluguelCarro\\aluguelcarro\\AluguelCarro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrique\\source\\repos\\AluguelCarro\\AluguelCarro\\AluguelCarro.csproj": {
+    "C:\\Users\\henrique\\Desktop\\AluguelCarro\\aluguelcarro\\AluguelCarro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrique\\source\\repos\\AluguelCarro\\AluguelCarro\\AluguelCarro.csproj",
+        "projectUniqueName": "C:\\Users\\henrique\\Desktop\\AluguelCarro\\aluguelcarro\\AluguelCarro.csproj",
         "projectName": "AluguelCarro",
-        "projectPath": "C:\\Users\\henrique\\source\\repos\\AluguelCarro\\AluguelCarro\\AluguelCarro.csproj",
+        "projectPath": "C:\\Users\\henrique\\Desktop\\AluguelCarro\\aluguelcarro\\AluguelCarro.csproj",
         "packagesPath": "C:\\Users\\henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrique\\source\\repos\\AluguelCarro\\AluguelCarro\\obj\\",
+        "outputPath": "C:\\Users\\henrique\\Desktop\\AluguelCarro\\aluguelcarro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
