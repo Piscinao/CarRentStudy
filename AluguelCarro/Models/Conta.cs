@@ -11,6 +11,8 @@ namespace AluguelCarro.Models
 
         public string UsuarioId { get; set; }
 
+        public string Usuario2Id { get; set; }
+
         public Usuario Usuario { get; set; }
 
         public int Saldo { get; set; }
