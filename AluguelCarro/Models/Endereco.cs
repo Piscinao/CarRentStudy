@@ -11,6 +11,8 @@ namespace AluguelCarro.Models
 
         public string Rua { get; set; }
 
+        public string Rua2 { get; set; }
+
         public int Numero { get; set; }
 
         public string Bairro { get; set; }
